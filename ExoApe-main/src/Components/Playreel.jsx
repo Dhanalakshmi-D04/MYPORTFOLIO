@@ -53,7 +53,7 @@ const Playreel = () => {
           autoPlay
           muted
           loop
-          src="/reel.mp4"
+          src="Public/reel.mp4"
         ></video>
       </div>
 
